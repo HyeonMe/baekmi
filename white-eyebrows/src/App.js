@@ -1,5 +1,6 @@
 import React from 'react';
 import logo from './logo.svg';
+import Carousel from './components/HorizontalCarouse';
 import './App.css';
 
 function App() {
@@ -13,11 +14,11 @@ function App() {
       <button class="Category" style={{top: 832+'px'}}>내정보</button>
 
       <div class="main-Div">
-        
+        <Carousel />
       </div>
 
       <div class="side-Web-name">
-            <span style={{color: 'rgb(45, 218, 195)'}}>로고</span> Web Site
+            <span style={{color: 'blue'}}>로고</span> Web Site
         </div>
     </React.Fragment>
   );
