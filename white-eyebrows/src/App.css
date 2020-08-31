@@ -5,21 +5,20 @@
   font-size: 45px;
   line-height: 53px;
   color: #000000;
-  }
-  .Category{
+}
+.Category{
     position: absolute;
     width: 118px; height: 66px;
     left: 61px; top: 128px;
     background: #C4C4C4;
-    
-  }
-  .main-Div{
+}
+.main-Div{
     position: absolute;
     width: 1091px;  height: 1336px;
     left: 193px;  top: 128px;
     background: #EAEAEA;
-  }
-  .side-Web-name{
+}
+.side-Web-name{
     position: fixed;
     font-weight: bold;  font-size: 15px;
     line-height: 1.87;  letter-spacing: 4px;

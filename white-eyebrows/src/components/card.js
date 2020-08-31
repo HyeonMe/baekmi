@@ -11,10 +11,9 @@ function Card(props) {
 
 const styles = {
     card : {
-        width: '870px',
-        height: '260px',
+        width: '920px',
+        height: '360px',
         background: 'blue',
-    
         fontSize:'2.5em',
         color:'white'
     }
