@@ -15,7 +15,23 @@ function App() {
 
       <div class="main-Div">
         <Carousel />
+        <div class="menu">
+          <button>내 서재</button>
+          <button>내 구독</button>
+          <button>내 구매</button>
+          <button>알림</button>
+        </div>
+        <div class="my-menu">
+          <div class="my-blog">
+
+          </div>
+          <div class="my-subscribe">
+
+          </div>
+        </div>
+  
       </div>
+
 
       <div class="side-Web-name">
             <span style={{color: 'blue'}}>로고</span> Web Site
